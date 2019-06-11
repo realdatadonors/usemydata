@@ -97,18 +97,18 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
     #address
     [[params.footer.addresses]]
-    address = "Sydney"
+    address = "Barcelona"
     
     [[params.footer.addresses]]
-    address = "6 rip carl Avenue CA 90733"
+    address = ""
 
     
     #contact information
     [[params.footer.contacts]]
-    contactInfo = "Tel: +90 000 333 22"
+    contactInfo = "Tel: +34 000 000 000"
     
     [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+    contactInfo = "Mail: realdatadonors@gmail.com"
 
 
   # social site
