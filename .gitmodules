@@ -1,3 +1,9 @@
 [submodule "themes/parsa"]
 	path = themes/parsa
 	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
+[submodule "themes/themes/parsa-hugo"]
+	path = themes/themes/parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
+[submodule "themes/parsa-hugo"]
+	path = themes/parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
