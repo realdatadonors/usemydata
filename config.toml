@@ -66,7 +66,7 @@ home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
 # Meta data
-description = "This is meta description"
+description = "RealDataDonors first mock"
 # about author
 author = "Themefisher"
 authorImage = "images/banner-img.png"
@@ -76,7 +76,7 @@ contactFormAction = "#"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
-copyright = "a theme by [themefisher.com](themefisher.com)"
+copyright = "a project by [realdatadonors.com](https://github.com/realdatadonors/usemydata)"
 
   # Preloader
   [params.preloader]
@@ -88,7 +88,7 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
   # Instagram feed
   [params.instafeed]
-  enable = true
+  enable = falses
   userID = "4044026246"
   accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
@@ -126,4 +126,8 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
   
   [[params.social]]
   icon = "ti-github"
+  URL = "#"
+  
+  [[params.social]]
+  icon = "ti-researchgate"
   URL = "#"
