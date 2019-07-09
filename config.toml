@@ -4,6 +4,7 @@ title = "Parsa | Personal Blog Template"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+HUGO_VERSION = "0.55"
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
